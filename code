@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+
+<head><link href="https://fonts.googleapis.com/css?family=Cinzel|Crimson+Text|Macondo+Swash+Caps|Rubik+Mono+One|Tangerine&display=swap" rel="stylesheet">
+
+        <link href="https://fonts.googleapis.com/css?family=Cinzel|Crimson+Text|Macondo+Swash+Caps|Rubik+Mono+One|Tangerine&display=swap" rel="stylesheet">
+
+<style>
+
+    html {
+        background-color: black;
+    }
+
+    h1 {
+        font-family: 'Rubik Mono One', sans-serif;
+        color: white;
+        text-align: center;
+    }
+
+    h2 {
+        font-family: 'Macondo Swash Caps', cursive;
+        color: white;
+        text-align: justify;
+    }
+
+    p {
+        font-family: 'Tangerine', cursive;
+        font-size: 30px;
+        color: white;
+        text-align: justify;
+    }
+
+    small {
+        font-family: 'Cinzel', serif;
+        color: white;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+    }
+
+    img {
+      display: block;
+      height: auto;
+      margin-left: auto;
+      margin-right: auto;
+      width: 75%; 
+      max-width: 100%;
+      
+    }
+
+    a {
+        color:white;
+        }
+
+    a:hover {
+        color:red;
+    }    
+
+    div {
+        display: block;
+        height: auto;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+    }
+
+</style>    
+
+</head>
+
+<body id="main">
+
+<h1 id="title">A Tribute to Tribute</h1>
+
+<div id="img-div">
+
+<!-- Put a picture here, with a caption. -->    
+<img src="https://i.kfs.io/article5/global/900,51,1v1/fit/512x313.jpg" alt="The band, Tenacious D" id="image">
+<br>
+<small id="img-caption" >The mortals that brought forth The Best Song In The World</small>
+
+</div>
+
+<p id="subhead">
+    <!-- Type tribute info here-->
+    <h2>This page is a tribute for the song '<a href="https://en.wikipedia.org/wiki/Tribute_(song)" target="_blank" id="tribute-link">Tribute</a>'. 'Tribute' was written to honor to The Best Song In The World, a song that was created on the spot and used to win a musical duel with the devil.</h2>
+</p>
+<p id="tribute-info">
+Musicians <a href="https://en.wikipedia.org/wiki/Jack_Black" target="_blank">Jack Black</a> and <a href="https://en.wikipedia.org/wiki/Kyle_Gass" target="_blank">Kyle Gass</a> form the super-talented duo Tenacious D.
+<br>
+A long time ago, Black and his brother Kyle there were hitchhiking down a long and lonesome road.
+All of a sudden there shined a shiny demon <a href="https://en.wikipedia.org/wiki/Dave_Grohl" target="_blank">(Dave Grohl)</a> in the middle of the road.
+He said "Play the best song in the world or I'll eat your soul."
+Jack and Kyle looked at each other, and each one said "Okay." 
+They played the first thing that came to their heads, and it just so happened to be the best song in the world.
+</p>
+
+<br>
+
+<div id="video">
+
+        <iframe width="469" height="352" src="https://www.youtube.com/embed/_lK4cX5xGiQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" alt="video of song 'Tribute'"></iframe>
+
+</div>
+</body>
+</html>
